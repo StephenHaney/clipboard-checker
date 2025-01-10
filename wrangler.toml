@@ -1,0 +1,5 @@
+[site]
+  [site.mimeTypes]
+    ".gltf" = "model/gltf+json"
+    ".bin" = "application/octet-stream"
+    ".glb" = "model/gltf-binary"
